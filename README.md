@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MaximoGamba
 - 👀 I’m interested in do many projects
 - 🌱 I’m currently learning Computer Engieering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maximogamba64@gmail.com
-- 😄 Pronouns: Maxi
+
 
 
 <!---
